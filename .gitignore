@@ -1,0 +1,8 @@
+# Private database backups
+SMARTBIZ_BACKUPS/
+
+# Environment secrets
+.env
+
+# Log files
+*.log
